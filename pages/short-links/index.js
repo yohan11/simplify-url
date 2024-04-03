@@ -2,7 +2,7 @@ import Head from 'next/head';
 import ShortLinkList from '@/components/ShortLinkList';
 import Button from '@/components/Button';
 import Link from '@/components/Link';
-import styles from '../../../../../../Downloads/6287/shortit/styles/ShortLinkListPage.module.css';
+import styles from '@/styles/ShortLinkListPage.module.css';
 
 export default function ShortLinkListPage() {
   const shortLinks = [];

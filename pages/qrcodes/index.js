@@ -2,7 +2,7 @@ import Head from 'next/head';
 import QRCodeList from '@/components/QRCodeList';
 import Button from '@/components/Button';
 import Link from '@/components/Link';
-import styles from '../../../../../../Downloads/6287/shortit/styles/QRCodeListPage.module.css';
+import styles from '@/styles/QRCodeListPage.module.css';
 
 export default function QRCodeListPage() {
   const qrCodes = [];

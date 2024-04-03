@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import QRCodeForm, { QRCodeFormType } from '@/components/QRCodeForm';
-import styles from '../../../../../../Downloads/6287/shortit/styles/QRCodeEditPage.module.css';
+import styles from '@/styles/QRCodeEditPage.module.css';
 
 export default function QRCodeEditPage() {
   return (

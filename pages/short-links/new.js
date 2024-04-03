@@ -1,5 +1,5 @@
 import ShortLinkForm from '@/components/ShortLinkForm';
-import styles from '../../../../../../Downloads/6287/shortit/styles/ShortLinkCreatePage.module.css';
+import styles from '@/styles/ShortLinkCreatePage.module.css';
 import Head from 'next/head';
 
 export default function ShortLinkCreatePage() {

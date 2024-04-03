@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import ShortLinkForm, { ShortLinkFormType } from '@/components/ShortLinkForm';
-import styles from '../../../../../../Downloads/6287/shortit/styles/ShortLinkEditPage.module.css';
+import styles from '@/styles/ShortLinkEditPage.module.css';
 
 export default function ShortLinkEditPage() {
   return (
