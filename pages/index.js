@@ -2,8 +2,8 @@ import { useRef, useState } from 'react';
 import Image from 'next/image';
 import Button from '@/components/Button';
 import Input from '@/components/Input';
-import styles from '../../../../../Downloads/6287/shortit/styles/Home.module.css';
-import cutUrlImage from '../../../../../Downloads/6287/shortit/public/cut-url.svg';
+import styles from '@/styles/Home.module.css';
+import cutUrlImage from '@/public/cut-url.svg';
 import copyToClipboard from '@/lib/copyToClipboard';
 
 export default function Home() {
