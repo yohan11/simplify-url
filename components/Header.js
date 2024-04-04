@@ -14,7 +14,7 @@ const Header = () => {
           <div className={styles.menu}>주소 줄이기</div>
         </Link>
         <Link href="/qrcodes">
-          <div className={styles.menu}>qr코드 생성</div>
+          <div className={styles.menu}>QR코드 생성</div>
         </Link>
       </div>
     </div>
